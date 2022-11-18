@@ -1,2 +1,2 @@
 # SpaceGame.py
-Fly a spaceship and laser the enemy.
+Fly a spaceship and blast the enemy with laser beams.
